@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+pydantic
+slowapi
+duckduckgo-search
+google-generativeai
